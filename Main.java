@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+
         System.out.print("Vize notu: ");
         double vizeNotu = sc.nextDouble();
         System.out.print("Final notu: ");
@@ -27,3 +28,4 @@ public class Main {
             }
     }
 }
+
